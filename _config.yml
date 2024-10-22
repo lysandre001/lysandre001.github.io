@@ -1,16 +1,16 @@
-title: Hanlin Cai
+title: Yilin He
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
 # description: Two roads diverged in woods, I took the one less traveled by.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://lysandre001.github.io/
 
 # Owner/author information
 owner:
   name: Yilin He
-  avatar: hanlin.jpg
+  avatar: YILIN_SMALL.jpg
   # bio: Two roads diverged in woods, I took the one less traveled by.
   email: lysandreho@163.com
-  cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
+  cv:https://lysandre001.github.io/file/YILIN_HE_cv_241021.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   linkedin: yilin-he-926bab14a
 
@@ -35,12 +35,14 @@ links:
     url: /
   - title: Publications
     url: /publications/
+  - title: Talks
+    url: /talks/
+  - title: Blog
+    url: /Blog/
   - title: Projects
     url: /Projects/
-  - title: talks
-    url: /talks/
-  - title: Blogs
-    url: /blogs/
+  - title: Resources
+    url: /Resources/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: China/Beijing
@@ -72,7 +74,7 @@ kramdown:
 
 # disqus settings:
 disqus:
-  shortname: lancecai
+  shortname: yilinhe
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
