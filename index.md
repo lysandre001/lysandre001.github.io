@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://https://lysandre001.github.io/yilinhe.jpg" class="floatpic">
+<img src="https://lysandre001.github.io/images/yilinhe.jpg" class="floatpic">
 
 Hi :) I'm Y. He, a UX researcher passionate about using large language models (LLMs) to create human-centered learning experiences.
 
