@@ -1,21 +1,16 @@
 # GuangLun2000.github.io 
 
-Here is **Yilin He(何奕霖)**. This is the repository for my personal website.
+Hi :) I'm Y. He, a UX researcher passionate about using large language models (LLMs) to create human-centered learning experiences.
 
-## Update and News
+I studied Educational Technology at Peking University, focusing on learning sciences and educational games, and I have a Bachelor’s degree from Renmin University of China with a background in education, anthropology, and psychology.
 
-- **Sep 2024:** This Github Page has reached **500+ Stars**🌟 Thank you so much!
-- **May 2023:** [Jekyll website building videos](https://www.bilibili.com/video/BV1ja4y1G7tX/) have been uploaded to Bilibili (小白建站视频)
-- **April 2023:** [Website building tutorials](https://caihanlin.com/blogs/web/) have been post on my blog (建站完全指南)
-- **Dec. 2022:** My personal website have been implemented in [caihanlin.com](https://caihanlin.com)
-- **Oct. 2022:** This Github Page have been built based on [Jason Ansel's site](https://github.com/jansel/jansel.github.io).
+Professionally, I've applied LLMs to develop educational tools that enhance user engagement. I've also led initiatives to increase AI literacy among educators, collaborating with top institutions like Tsinghua University and Peking University. This work involved designing courses and toolkits that teach AI integration in teaching, benefiting numerous teachers and faculty.
 
-## Star History
 
-**If you like it, please STAR it! 🥰**
+## research interest
+Social Robotics,learning through play, Social Emotion, UX Research, Large Language Model
 
-[![Star History Chart](https://api.star-history.com/svg?repos=GuangLun2000/GuangLun2000.github.io&type=Date)](https://star-history.com/#GuangLun2000/GuangLun2000.github.io&Date)
 
-## Statement
+
 
 © 2024 Hanlin Cai. Published with [GitHub Pages](https://pages.github.com/), powered by [Jekyll](https://jekyllrb.com/), based on the [Minimal Mistakes](https://mademistakes.com/) theme and [Jason Ansel's site](https://github.com/jansel/jansel.github.io). Source code for this website can be found [here](https://github.com/GuangLun2000/GuangLun2000.github.io).
