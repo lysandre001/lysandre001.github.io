@@ -6,8 +6,7 @@ url: "https://lysandreho001.github.io"
 baseurl: ""
 
 # Theme
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: default
+remote_theme: mmistakes/minimal-mistakes
 
 # Build Settings
 markdown: kramdown
