@@ -29,11 +29,11 @@ PS: I always welcome collaborations in human–agent interaction research, AI pr
 
 **Aug 2025**: Conducted a digital theatre project at the [Beijing International Youth Theatre Festival](https://mp.weixin.qq.com/s/K-aRtxNA8DnD4ALZffnlyg).
 
-**June 2025**: Partnered with the [Learning Science Lab at Peking University](https://mp.weixin.qq.com/s/K-aRtxNA8DnD4ALZffnlyg/) to deliver AI literacy workshops for K–12 teachers.
+**June 2025**: Partnered with the [Learning Science Lab at Peking University](https://mp.weixin.qq.com/s/ujjOlLQTYxEvE_fmKaaLfQ) to deliver AI literacy workshops for K–12 teachers.
 
-**Sept 2024**: Collaborated with the [Teacher Development Center at Tsinghua University](https://mp.weixin.qq.com/s/K-aRtxNA8DnD4ALZffnlyg), sharing knowledge on prompt engineering and intelligent-agent design with university faculty.
+**Sept 2024**: Collaborated with the [Teacher Development Center at Tsinghua University](https://mp.weixin.qq.com/s/WAuy9aY9HN8pwS1RzsJg6w), sharing knowledge on prompt engineering and intelligent-agent design with university faculty.
 
-**Dec 2023**: Published a short article on gamified teaching and relationships, featured by the [Chen Yidan Foundation](https://mp.weixin.qq.com/s/K-aRtxNA8DnD4ALZffnlyg)—grateful for the support!
+**Dec 2023**: Published a short article on gamified teaching and relationships, featured by the [Chen Yidan Foundation](https://mp.weixin.qq.com/s/f0mOL_MxMJyAyOGUdA1bGA)—grateful for the support!
 
 
 
