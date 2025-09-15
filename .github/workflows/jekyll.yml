@@ -32,7 +32,7 @@ jobs:
       
       - name: Build with Jekyll
         run: |
-          bundle exec jekyll build --baseurl "${{ steps.vars.outputs.baseurl }}"
+          bundle exec jekyll build --baseurl "/personal_blog"
         env:
           JEKYLL_ENV: production
       

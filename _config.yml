@@ -2,8 +2,8 @@
 title: "Yilin He"
 tagline: "Here is personal website of Yilin He. Powered by Jekyll, based on the Minimal Mistakes theme."
 description: "Less is more."
-url: "https://yilinhe.com"
-baseurl: ""
+url: "https://lysandre001.github.io"
+baseurl: "/personal_blog"
 
 # Theme
 theme: minimal-mistakes-jekyll
