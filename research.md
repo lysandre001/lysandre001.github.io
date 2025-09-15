@@ -4,68 +4,22 @@ title: "Research"
 permalink: /research/
 ---
 
-# Research
 
-## Current Research Projects
+## Publication
 
-### Project 1: [Project Title]
-**Duration**: [Start Date] - [End Date]  
-**Description**: [Brief description of the project]  
-**Collaborators**: [List of collaborators]  
-**Funding**: [Funding source]
+He, Y., Qi, X.(2025). Does personal epistemology play a significant role in the connection between needs satisfaction and self-regulated learning (SRL) with generative artificial intelligence (GENAI)? Paper accepted for virtual presentation at the 2025 Annual Meeting of the American Educational Research Association
 
-### Project 2: [Project Title]
-**Duration**: [Start Date] - [End Date]  
-**Description**: [Brief description of the project]  
-**Collaborators**: [List of collaborators]  
-**Funding**: [Funding source]
+He, Y. (2023). Learning through play and interaction relationships. In Shang, J., Zhang, L., & Li, X. (Eds.), Let learning be more enjoyable: Learning through play in China (pp. 101-134). Beijing, China Publishing Group Corporation, World Publishing Corporation.
 
-## Publications
+Shang, J., Wang, Y., & He, Y. (2020). Exploring the Mysteries of Learning: A Review of Empirical Research on Learning Sciences in Recent Five Years in China. Journal of East China Normal University (Educational Sciences), 38(9), 162-178.
 
-### Journal Articles
+He, Y., Zhang, L., & Shang, J. (2022). Playful learning and interaction relationships: Current status and influencing factors—A perspective on parent-child, teacher-student, and peer relationships. Presented at the PhD Student Forum, Annual Conference of the Educational Game Professional Committee of the Chinese Society for Educational Technology, Beijing, China
 
-1. **Author, A., Author, B., & Your Name (Year).** "Title of the Paper." *Journal Name*, Volume(Issue), pages. [DOI](https://doi.org/xxx)
+He, Y., & Shang, J. (2021). Analyzing the function of educational games in social-emotional learning. In Jiang, S., Wang, Q., & Huang, R. (Eds.), Proceedings of the 25th Global Chinese Conference on Computers in Education (GCCCE 2021) (pp. 145-147). Beijing, China
 
-2. **Your Name, Author, A., & Author, B. (Year).** "Title of the Paper." *Journal Name*, Volume(Issue), pages. [DOI](https://doi.org/xxx)
 
-### Conference Papers
 
-1. **Your Name, Author, A., & Author, B. (Year).** "Title of the Paper." In *Proceedings of Conference Name* (pp. pages). [DOI](https://doi.org/xxx)
+## Awards
 
-2. **Author, A., Your Name, & Author, B. (Year).** "Title of the Paper." In *Proceedings of Conference Name* (pp. pages). [DOI](https://doi.org/xxx)
-
-### Book Chapters
-
-1. **Your Name (Year).** "Chapter Title." In *Book Title* (pp. pages). Publisher.
-
-## Research Areas
-
-### [Research Area 1]
-[Description of your expertise in this area]
-
-### [Research Area 2]
-[Description of your expertise in this area]
-
-### [Research Area 3]
-[Description of your expertise in this area]
-
-## Awards and Recognition
-
-- [Year] - [Award Name], [Organization]
-- [Year] - [Award Name], [Organization]
-- [Year] - [Award Name], [Organization]
-
-## Grants and Funding
-
-- [Year] - [Grant Title], [Funding Agency], [Amount]
-- [Year] - [Grant Title], [Funding Agency], [Amount]
-
-## Research Collaborations
-
-- [Collaborator Name], [Institution]
-- [Collaborator Name], [Institution]
-- [Collaborator Name], [Institution]
-
----
-
-*For more detailed information about my research, please contact me at [your.email@example.com]*
+- **2025** - UM Scholarship, University of Macau
+- **2022** - Bao Gang Scholarship, Peking University 

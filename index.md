@@ -5,30 +5,35 @@ permalink: /
 author_profile: true
 ---
 
-Here is **Hanlin Cai (Lance, 蔡翰林)**.
+Hi! I’m Yilin He (何奕霖) A first-year Ph.D. student in Computer Science at the University of Macau with an interdisciplinary background spanning sociology, educational technology, and computer science. 
 
-I am a graduate student in the Internet of Everything Group at the University of Cambridge, supervised by Prof. Ozgur Akan and Dr. Kai Li, and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with Prof. Pietro Liò at the Artificial Intelligence Group.
+Before starting my Ph.D., I worked as a UX Researcher at Alibaba, serving in the advertising system. I then joined an education technology startup as an AI Product Manager, where I explored how large language models can be applied to generate educational resources and enhance learning experiences. In addition, I designed and delivered nonprofit AI lectures and workshops reaching more than 1,000 K–12 teachers, helping them gain hands-on experience with AI literacy and agent applications.
 
-Prior to Cambridge, I have worked on wireless networks and cybersecurity under the guidance of Prof. Zhezhuang Xu and Dr. Meng Yuan. Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
+My research now focuses on HRI. To be specific, that is  understanding complex human intentions and emotions—both verbal and nonverbal—across cultures, and on developing systems that can recognize these signals to provide more meaningful and human-centered responses.
 
-If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **hc663@cam.ac.uk**
+PS: I always welcome collaborations in human–agent interaction research, AI product Devlopment, and  AI Literacy Programs. Feel free to reach out if you’d like to connect! My email is lysandreho@163.com
 
----
+
 
 ## Research Interests
 
-* Internet of Everything
-* Wireless Communication
-* Semantic Communication
-* LLM for Networking
-* Large Language Model Agents
+* Digital Humanities
+* social emotion
+* Human–Agent Interaction
+* LLM applictaions in education,healthcare,art and other domains
 
----
 
 ## News and Updates
 
-* **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge-CSC Scholarship!
-* **June 2024**：Very excited to be selected as KDD UC Scholar. See you in Spain!
-* **April 2024**：Our work _BLEGuard_ has been accepted to MobiSys 2024 as a poster paper. See you in Japan!
-* **March 2024**：Happy to receive a MPhil offer from Department of Engineering at Cambridge!
-* **Dec 2023**：Very excited to be selected as AAAI UC Scholar. See you in Canada!
+**Sept 2025**: Started my Ph.D. in Computer Science at the University of Macau and received the UM Scholarship 
+
+**Aug 2025**: Conducted a digital theatre project at the [Beijing International Youth Theatre Festival](https://mp.weixin.qq.com/s/K-aRtxNA8DnD4ALZffnlyg).
+
+**June 2025**: Partnered with the [Learning Science Lab at Peking University](https://mp.weixin.qq.com/s/K-aRtxNA8DnD4ALZffnlyg/) to deliver AI literacy workshops for K–12 teachers.
+
+**Sept 2024**: Collaborated with the [Teacher Development Center at Tsinghua University](https://mp.weixin.qq.com/s/K-aRtxNA8DnD4ALZffnlyg), sharing knowledge on prompt engineering and intelligent-agent design with university faculty.
+
+**Dec 2023**: Published a short article on gamified teaching and relationships, featured by the [Chen Yidan Foundation](https://mp.weixin.qq.com/s/K-aRtxNA8DnD4ALZffnlyg)—grateful for the support!
+
+
+
