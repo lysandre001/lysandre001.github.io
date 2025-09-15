@@ -29,9 +29,6 @@ author:
   location: "Macau SAR, China "
   email: "lysandreho@163.com"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:lysandreho@163.com"
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
       url: "/assets/cv/Yilin_cv.pdf"
@@ -43,7 +40,7 @@ author:
       url: "ohno!"
     - label: "JIKE"
       icon: "fab fa-fw fa-jike"
-      url: "https://www.zhihu.com/people/chlire"
+      url: "https://web.okjike.com/u/E5B4D547-FDF6-468A-B360-62158C54E5FE"
 # Navigation
 navigation:
   - title: "About Me"
