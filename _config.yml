@@ -2,11 +2,12 @@
 title: "Yilin He"
 tagline: "Here is personal website of Yilin He. Powered by Jekyll, based on the Minimal Mistakes theme."
 description: "Less is more."
-url: "https://lysandreho001.github.io"
+url: "https://lysandre001.github.io"
 baseurl: ""
 
 # Theme
 remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: default
 
 # Build Settings
 markdown: kramdown
