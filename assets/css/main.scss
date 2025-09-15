@@ -1,0 +1,18 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* 自定义头像样式 */
+.author__avatar img {
+  border-radius: 50% !important;  /* 确保完全圆形 */
+  width: 120px !important;        /* 稍微增大头像尺寸 */
+  height: 120px !important;       /* 保持正方形比例 */
+  object-fit: cover !important;   /* 确保图片比例正确 */
+  border: 3px solid #e8e8e8 !important;  /* 添加更明显的边框 */
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1) !important;  /* 添加阴影效果 */
+  
+  @include breakpoint($large) {
+    padding: 0 !important;  /* 移除内边距，让边框更清晰 */
+  }
+}

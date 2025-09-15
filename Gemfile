@@ -1,9 +1,11 @@
 source "https://rubygems.org"
 
-# Core
-gem "jekyll", "~> 4.4"
-gem "webrick", "~> 1.7"
+gem "jekyll", "~> 4.0"
+gem "minimal-mistakes-jekyll", "~> 4.27"
 
-# Plugins
-gem "jekyll-sitemap"
-gem "jekyll-seo-tag"
+group :jekyll_plugins do
+  gem "jekyll-feed"
+  gem "jekyll-sitemap"
+  gem "jekyll-seo-tag"
+  gem "jekyll-include-cache"
+end

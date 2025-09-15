@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "About Me"
+    url: "/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Resources"
+    url: "/resources/"
+  - title: "Gallery"
+    url: "/gallery/"

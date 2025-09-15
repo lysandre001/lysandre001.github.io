@@ -1,25 +1,65 @@
 # Site Settings
-title: "Personal Blog"
-description: "Personal academic blog and research portfolio"
-url: ""
+title: "Yilin He"
+tagline: "Here is personal website of Yilin He. Powered by Jekyll, based on the Minimal Mistakes theme."
+description: "Less is more."
+url: "https://yilinhe.com"
 baseurl: ""
+
+# Theme
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: default
 
 # Build Settings
 markdown: kramdown
 highlighter: rouge
+permalink: /:categories/:title
 
 # Plugins
 plugins:
+  - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-include-cache
 
+# Author
+author:
+  name: "Yilin He"
+  avatar: "/assets/images/yilin.jpg"
+  bio: "PHD student at the University of Macau, working on digital humanity"
+  location: "Macau SAR, China "
+  email: "lysandreho@163.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:hc663@cam.ac.uk"
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: ""
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/hanlincai"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar"
+      url: "https://scholar.google.com/citations?user=8igSoWgAAAAJ"
+    - label: "JIKE"
+      icon: "fab fa-fw fa-jike"
+      url: "https://www.zhihu.com/people/chlire"
 # Navigation
 navigation:
   - title: "About Me"
-    url: "/about/"
+    url: "/"
   - title: "Research"
     url: "/research/"
   - title: "Resources"
     url: "/resources/"
   - title: "Gallery"
     url: "/gallery/"
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "single"
+      author_profile: true

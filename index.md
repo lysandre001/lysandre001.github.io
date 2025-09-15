@@ -1,25 +1,34 @@
 ---
-layout: home
-title: "Welcome"
+layout: single
+title: "About Me"
+permalink: /
+author_profile: true
 ---
 
-# Welcome to My Personal Blog
+Here is **Hanlin Cai (Lance, 蔡翰林)**.
 
-I'm a researcher and academic passionate about [your field of study]. This website showcases my research, resources, and creative work.
+I am a graduate student in the Internet of Everything Group at the University of Cambridge, supervised by Prof. Ozgur Akan and Dr. Kai Li, and funded by the Cambridge Trust and CSC Scholarships. I also had the pleasure of participating in a summer research program with Prof. Pietro Liò at the Artificial Intelligence Group.
 
-## Recent Updates
+Prior to Cambridge, I have worked on wireless networks and cybersecurity under the guidance of Prof. Zhezhuang Xu and Dr. Meng Yuan. Besides, I was honored to be selected as an Undergraduate Scholar at the leading conferences AAAI 2024 and SIGKDD 2024.
 
-- **Latest Research**: [Brief description of recent work]
-- **New Resources**: [Description of new resources added]
-- **Gallery Updates**: [New photos or projects]
-
-## Quick Links
-
-- [About Me](/about/) - Learn more about my background and interests
-- [Research](/research/) - Explore my academic work and publications
-- [Resources](/resources/) - Download papers, datasets, and tools
-- [Gallery](/gallery/) - View my photography and creative projects
+If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **hc663@cam.ac.uk**
 
 ---
 
-*This site is built with Jekyll and hosted on GitHub Pages.*
+## Research Interests
+
+* Internet of Everything
+* Wireless Communication
+* Semantic Communication
+* LLM for Networking
+* Large Language Model Agents
+
+---
+
+## News and Updates
+
+* **May 2025**：Delighted to be selected as a winner of the 2025 Cambridge-CSC Scholarship!
+* **June 2024**：Very excited to be selected as KDD UC Scholar. See you in Spain!
+* **April 2024**：Our work _BLEGuard_ has been accepted to MobiSys 2024 as a poster paper. See you in Japan!
+* **March 2024**：Happy to receive a MPhil offer from Department of Engineering at Cambridge!
+* **Dec 2023**：Very excited to be selected as AAAI UC Scholar. See you in Canada!

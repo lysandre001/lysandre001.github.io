@@ -1,95 +1,51 @@
 ---
-layout: page
+layout: single
 title: "Resources"
 permalink: /resources/
 ---
 
 # Resources
 
-This page contains downloadable resources including papers, datasets, software, and other materials related to my research.
+Welcome to my resource collection. Here you can find useful materials, tools, and downloads.
 
-## Software and Tools
+## Downloads
 
-### [Tool Name 1]
-**Description**: [Brief description of the tool]  
-**Version**: [Current version]  
-**Platform**: [Supported platforms]  
-**Download**: [Download link or file]  
-**Documentation**: [Link to documentation]
+### Academic Papers
+- [Paper Title 1](link-to-paper1.pdf) - Brief description
+- [Paper Title 2](link-to-paper2.pdf) - Brief description
+- [Paper Title 3](link-to-paper3.pdf) - Brief description
 
-### [Tool Name 2]
-**Description**: [Brief description of the tool]  
-**Version**: [Current version]  
-**Platform**: [Supported platforms]  
-**Download**: [Download link or file]  
-**Documentation**: [Link to documentation]
+### Presentations
+- [Conference Presentation 1](link-to-presentation1.pdf) - Event, Year
+- [Conference Presentation 2](link-to-presentation2.pdf) - Event, Year
+- [Workshop Presentation](link-to-workshop.pdf) - Event, Year
 
-## Datasets
+### Code and Software
+- [Project Repository 1](https://github.com/username/repo1) - Description
+- [Project Repository 2](https://github.com/username/repo2) - Description
+- [Tool or Script](link-to-tool) - Description
 
-### [Dataset Name 1]
-**Description**: [Description of the dataset]  
-**Size**: [Dataset size]  
-**Format**: [File format]  
-**Download**: [Download link]  
-**Citation**: [How to cite this dataset]
+## Useful Links
 
-### [Dataset Name 2]
-**Description**: [Description of the dataset]  
-**Size**: [Dataset size]  
-**Format**: [File format]  
-**Download**: [Download link]  
-**Citation**: [How to cite this dataset]
+### Research Tools
+- [Tool 1](link) - Description
+- [Tool 2](link) - Description
+- [Tool 3](link) - Description
 
-## Papers and Preprints
+### Learning Resources
+- [Resource 1](link) - Description
+- [Resource 2](link) - Description
+- [Resource 3](link) - Description
 
-### Published Papers
-- **Sample Research Paper** (2024) - [Download PDF](/assets/papers/sample_paper.pdf)
-- **[Paper Title 2]** ([Year]) - [Download PDF](/assets/papers/paper2.pdf)
+### Professional Networks
+- [Network 1](link) - Description
+- [Network 2](link) - Description
+- [Network 3](link) - Description
 
-### Preprints
-- **[Preprint Title 1]** ([Year]) - [Download PDF](/assets/papers/preprint1.pdf)
-- **[Preprint Title 2]** ([Year]) - [Download PDF](/assets/papers/preprint2.pdf)
+## Contact
 
-## Presentations and Slides
-
-### Conference Presentations
-- **Sample Presentation** - Sample Conference (2024) - [Download Slides](/assets/presentations/sample_slides.pdf)
-- **[Presentation Title 2]** - [Conference Name] ([Year]) - [Download Slides](/assets/presentations/presentation2.pdf)
-
-### Workshop Materials
-- **[Workshop Title 1]** - [Download Materials](/assets/workshops/workshop1.zip)
-- **[Workshop Title 2]** - [Download Materials](/assets/workshops/workshop2.zip)
-
-## Code and Repositories
-
-### GitHub Repositories
-- **[Repository Name 1]** - [Description] - [GitHub Link](https://github.com/yourusername/repo1)
-- **[Repository Name 2]** - [Description] - [GitHub Link](https://github.com/yourusername/repo2)
-
-## Teaching Materials
-
-### Course Materials
-- **[Course Name 1]** - [Semester] - [Download Materials](/assets/courses/course1.zip)
-- **[Course Name 2]** - [Semester] - [Download Materials](/assets/courses/course2.zip)
-
-### Lecture Notes
-- **[Lecture Topic 1]** - [Download Notes](/assets/lectures/lecture1.pdf)
-- **[Lecture Topic 2]** - [Download Notes](/assets/lectures/lecture2.pdf)
-
-## Other Resources
-
-### Templates and Forms
-- **Sample Template** - [Download Template](/assets/templates/sample_template.docx)
-- **[Template Name 2]** - [Download Template](/assets/templates/template2.docx)
-
-### Guidelines and Standards
-- **[Guideline Name 1]** - [Download PDF](/assets/guidelines/guideline1.pdf)
-- **[Guideline Name 2]** - [Download PDF](/assets/guidelines/guideline2.pdf)
-
-## Usage and Citation
-
-If you use any of these resources in your research, please cite the appropriate papers or acknowledge the source. For questions about any resource, please contact me at [your.email@example.com].
+If you need access to any specific resources or have questions about the materials, please contact me at [your.email@example.com].
 
 ---
 
-*Last updated: [Current Date]*
+*Resources last updated: [Current Date]*
