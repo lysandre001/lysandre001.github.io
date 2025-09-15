@@ -1,0 +1,25 @@
+# Site Settings
+title: "Personal Blog"
+description: "Personal academic blog and research portfolio"
+url: ""
+baseurl: ""
+
+# Build Settings
+markdown: kramdown
+highlighter: rouge
+
+# Plugins
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Navigation
+navigation:
+  - title: "About Me"
+    url: "/about/"
+  - title: "Research"
+    url: "/research/"
+  - title: "Resources"
+    url: "/resources/"
+  - title: "Gallery"
+    url: "/gallery/"

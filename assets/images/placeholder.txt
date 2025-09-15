@@ -1,0 +1,21 @@
+# Image Placeholders
+
+This directory contains placeholder files for images. Replace these with your actual images:
+
+## Gallery Images
+- nature1.jpg, nature2.jpg, nature3.jpg - Nature and landscape photos
+- urban1.jpg, urban2.jpg, urban3.jpg - Urban and architecture photos
+- lab1.jpg, lab2.jpg, field1.jpg - Research documentation photos
+- conference1.jpg, conference2.jpg, event1.jpg - Conference and event photos
+- art1.jpg, art2.jpg, design1.jpg - Creative project photos
+- travel1.jpg, travel2.jpg, travel3.jpg - Travel photos
+
+## Recommended Image Sizes
+- Gallery images: 800x600px or larger
+- Avatar: 200x200px
+- Thumbnails: 300x200px
+
+## Image Formats
+- Use JPG for photos
+- Use PNG for graphics with transparency
+- Use WebP for better compression (with JPG fallback)
